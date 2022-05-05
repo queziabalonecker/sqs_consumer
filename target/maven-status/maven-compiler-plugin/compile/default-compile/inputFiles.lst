@@ -1,0 +1,7 @@
+/Users/lisandre.andreolo/Desktop/Aulas Danilo/workspace_fase2/Aula SQS/GitHub/aws-sqs-java/sqs_consumer/src/main/java/br/com/sqs_consumer/credentials/CredentialsProvider.java
+/Users/lisandre.andreolo/Desktop/Aulas Danilo/workspace_fase2/Aula SQS/GitHub/aws-sqs-java/sqs_consumer/src/main/java/br/com/sqs_consumer/App.java
+/Users/lisandre.andreolo/Desktop/Aulas Danilo/workspace_fase2/Aula SQS/GitHub/aws-sqs-java/sqs_consumer/src/main/java/br/com/sqs_consumer/services/SQSGetQueueURL.java
+/Users/lisandre.andreolo/Desktop/Aulas Danilo/workspace_fase2/Aula SQS/GitHub/aws-sqs-java/sqs_consumer/src/main/java/br/com/sqs_consumer/services/SQSMessageReader.java
+/Users/lisandre.andreolo/Desktop/Aulas Danilo/workspace_fase2/Aula SQS/GitHub/aws-sqs-java/sqs_consumer/src/main/java/br/com/sqs_consumer/services/SQSDeleteMessage.java
+/Users/lisandre.andreolo/Desktop/Aulas Danilo/workspace_fase2/Aula SQS/GitHub/aws-sqs-java/sqs_consumer/src/main/java/br/com/sqs_consumer/services/SQSReceiveMessage.java
+/Users/lisandre.andreolo/Desktop/Aulas Danilo/workspace_fase2/Aula SQS/GitHub/aws-sqs-java/sqs_consumer/src/main/java/br/com/sqs_consumer/services/SQSClient.java

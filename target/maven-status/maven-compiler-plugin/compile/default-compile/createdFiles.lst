@@ -1,0 +1,9 @@
+br/com/sqs_consumer/services/SQSClient.class
+br/com/sqs_consumer/credentials/CredentialsProvider$1$1.class
+br/com/sqs_consumer/services/SQSMessageReader.class
+br/com/sqs_consumer/credentials/CredentialsProvider$1.class
+br/com/sqs_consumer/services/SQSReceiveMessage.class
+br/com/sqs_consumer/credentials/CredentialsProvider.class
+br/com/sqs_consumer/services/SQSGetQueueURL.class
+br/com/sqs_consumer/App.class
+br/com/sqs_consumer/services/SQSDeleteMessage.class
